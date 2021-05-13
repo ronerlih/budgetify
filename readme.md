@@ -1,7 +1,7 @@
 # Budgetify
 ### Budget app to demo offline fetch with service worker
 
-![screenshot](public/screenshot.png]
+![screenshot](https://raw.githubusercontent.com/ronerlih/budgetify/main/public/screenshot.png]
 
 🌎 Live at: https://budgetifyjitsu.herokuapp.com/
 
